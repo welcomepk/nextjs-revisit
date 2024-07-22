@@ -2,7 +2,7 @@ import React from 'react'
 
 function loading() {
     return (
-        <div>loading invoises ...</div>
+        <div>loading...</div>
     )
 }
 
